@@ -7,29 +7,22 @@ body{
 
 
 /* Navbar */
-nav {
-    background-color: #0B1957;
-  }
-  
-  nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
-  
-  nav ul li {
-    float: left;
-  }
-  
-  nav ul li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
-  }
-  
-  nav ul li a:hover {
-    background-color: #5784E6;
-  }
+nav{
+  background-color: #0B1957;
+  display: flex;
+  flex-direction: row;
+}
+
+ul{
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  gap:50px;
+}
+
+
+.logo{
+  height: 150px;
+}
