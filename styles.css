@@ -4,6 +4,15 @@ body{
   row-gap: 100px;
 }
 
+.logo-div{
+  height: 150px;
+  background-color: #0B1957;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+ 
+}
+
 /* Navbar */
 nav {
   background-color: #0B1957;
@@ -17,6 +26,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  display: flex;
 
 }
 
@@ -38,7 +48,8 @@ nav ul li a:hover {
 }
 
 .logo{
-  height:120px
+  height: 170px;  
+  width: 450px;
 }
 
 .title{
