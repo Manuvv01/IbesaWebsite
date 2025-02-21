@@ -4,6 +4,15 @@ body{
   row-gap: 100px;
 }
 
+.logo-div{
+  height: 150px;
+  background-color: #0B1957;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+ 
+}
+
 /* Navbar */
 nav {
   background-color: #0B1957;
@@ -13,15 +22,15 @@ nav {
 }
 
 nav ul {
-  list-style-type: none;
+  list-style: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
 
 }
 
 nav ul li {
-  float: left;
+  display: inline-block;
+  position: relative;
 
 }
 
@@ -37,8 +46,42 @@ nav ul li a:hover {
   background-color: #5784E6;
 }
 
+
+/* Navbar dropdown*/
+.dropdown-menu{
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+}
+
+nav ul li:hover ul {
+  display: block;
+}
+
+.dropdown-content{
+  display: block;
+  white-space: nowrap;
+}
+
+
+.dropdown-text{
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #333;
+}
+
+/*Dropdown box background color*/
+nav ul li ul li a:hover {
+  background-color: #f0f0f0;
+}
+
+
 .logo{
-  height:120px
+  height: 170px;  
+  width: 450px;
 }
 
 .title{
