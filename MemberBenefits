@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #00114d;
+            background-color: color white;
             margin: 0;
             padding: 0;
             color: black;
@@ -34,31 +34,6 @@
             font-weight: bold;
             font-size: 20px;
             margin-left: 10px;
-        }
-        .container {
-            margin: 20px;
-        }
-        .staff-section {
-            background-color: #fff;
-            padding: 15px;
-            display: inline-block;
-            margin-bottom: 20px;
-        }
-        .staff-grid {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-        }
-        .staff-card {
-            background-color: #d3d3d3;
-            padding: 40px;
-            width: 150px;
-        }
-        .contact-form {
-            background-color: #d3d3d3;
-            padding: 10px;
-            display: inline-block;
-            margin-top: 20px;
         }
     </style>
 </head>
