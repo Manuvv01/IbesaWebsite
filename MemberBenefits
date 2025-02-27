@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Member Benefits</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #00114d;
+            margin: 0;
+            padding: 0;
+            color: black;
+            text-align: center;
+        }
+        .navbar {
+            background-color: #4a7ff0;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-radius: 10px 10px 0 0;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+        }
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+        .logo {
+            color: white;
+            font-weight: bold;
+            font-size: 20px;
+            margin-left: 10px;
+        }
+        .container {
+            margin: 20px;
+        }
+        .staff-section {
+            background-color: #fff;
+            padding: 15px;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+        .staff-grid {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .staff-card {
+            background-color: #d3d3d3;
+            padding: 40px;
+            width: 150px;
+        }
+        .contact-form {
+            background-color: #d3d3d3;
+            padding: 10px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <div class="logo">IBESA</div>
+        <div>
+            <a href="#">Home</a>
+            <a href="#">About Us</a>
+            <a href="#">Activities</a>
+            <a href="#">Contact Us</a>
+            <a href="#">Join Us</a>
+        </div>
