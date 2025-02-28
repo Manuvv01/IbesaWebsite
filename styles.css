@@ -121,7 +121,7 @@ p{
   padding: 10px 50px;
   position: relative;
   width: 50%;
-  background: rgba(0, 0, 0, 0.3);
+
 }
 
 .text-box{
@@ -138,4 +138,49 @@ p{
 
 .right-container{
   left: 50%;
+}
+
+.timeline::after{
+  content: '';
+  position: absolute;
+  width: 6px;
+  height: 100%;
+  background: black;
+  top: 0;
+  left: 50%;
+  margin-left: -3px;
+  z-index: -1;
+}
+
+.text-box h2{
+  font-weight: 600;
+}
+
+.text-box small{
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+.left-container-arrow{
+  height: 0;
+  width: 0;
+  position: absolute;
+  top: 28px;
+  z-index: 1;
+  border-top: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  border-left: 15px solid #fff;
+  right: -15px
+}
+
+.right-container-arrow{
+  height: 0;
+  width: 0;
+  position: absolute;
+  top: 28px;
+  z-index: 1;
+  border-top: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  border-right: 15px solid #fff;
+  left: -15px
 }
