@@ -22,7 +22,7 @@
   <div class="logo-div"> <img class="logo" src="Images/I VOLUNTEER AT.png1.png"> </div>
   <nav>
     <ul>
-      <li><a href="main.html">Home</a></li>
+      <li><a href="#">Home</a></li>
       <li>
         <a href="#">About us ▾</a>
         <ul class="dropdown-menu">
@@ -51,13 +51,6 @@
       <li><a href="#">Join Us</a></li>
     </ul>
   </nav>
-
-  <div class="container">
-    <div class="calendar">
-        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FChicago&src=ZmlkZWxzYW50aWFnbzkwN0BnbWFpbC5jb20&src=ZWFydXRtdjhwYnR1anZlNWR0dnE5ajE4MjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZThmOTdkY2RmMGMwMjI5NGRkZDQ1NjhlODgwNDIzZjZmZGE0MjU0YzI4OGVmOWYzZTBiMmU1YmM1Yzk0ZjQ4ZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MmM1NTgyMWMzYTc5ODBmMTY4YWEzYTI1NzZhY2M3MDQ5YmFjYzZlMmZhNjJiNzZlOTdiOTgwZDU0YjViMjkyN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y2E2ZTAwMTAxNDk4MDlmYzllNjVhZWFmMDRmMzBhOGQ3NjVlNDJjNjViMjk0OGU5YzU3MzNiM2MzOGQ0OGEwZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cDRxOHByNGxtZmI2dnM3OTdwZGp0dHNncjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YzMwODU4MWNlZmFmZDQyYWQ4OWYzMDRmYjc5NTJiYjQ3ODEyMzE2MmEzOWY2ZGE4ZjE2NzRiMDA2ZGRlYWRmZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=NTBhODc0MzlkNDAxODhhMzkyMzAxMTdhNGNjNGU4N2Y0MDhkZmVjYjlkNzFkYTQwNzVlNjBlNGM5YzMyMGI3NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cXJzYXI1dTNsZGU3OGZwam9jNmRudTc4ZW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YnBiM3NscDI1NmhsMjhvdWlhb3ZpZGtsdHB2YWVxMmVAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZG5scjdwYnYxc2ZncnZya2FjcWV2dTcxY3NvdTFiOHZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%23a281c2&color=%23cc9600&color=%234682b4&color=%23ccac00&color=%2320b2aa&color=%23cc6942&color=%23cc0000&color=%23c80085&color=%237986CB&color=%234285F4&color=%239E69AF" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-    </div>
-    <div class="events">Upcoming Events</div>
-</div>
 
 
   <div class="container">
