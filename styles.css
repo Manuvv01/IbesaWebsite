@@ -2,6 +2,7 @@ body{
   background-color: #F8F3EA;
   font-family: Arial, sans-serif;
   row-gap: 100px;
+ 
 }
 
 .logo-div{
@@ -106,4 +107,35 @@ p{
 
 #crow-img{
   height: 500px;
+}
+
+
+/* Timeline css */
+.timeline{
+  position: relative;
+  max-width: 1200px;
+  margin: 100px auto;
+}
+
+.timeline-container{
+  padding: 10px 50px;
+  position: relative;
+  width: 50%;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.text-box{
+  padding: 20px 30px;
+  background: #fff;
+  position: relative;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+.left-container{
+  left: 0;
+}
+
+.right-container{
+  left: 50%;
 }
