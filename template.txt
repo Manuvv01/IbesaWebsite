@@ -52,88 +52,15 @@
     </ul>
   </nav>
 
+    <!-- Aqui pongan su codigo  -->
+
+
 
   <div class="container">
     <div class="row">
 
       <div class="box"></div>
 
-      <h1 class="title text-center">Lorem Ipsum</h1>
-      <div class="box"></div>
-
-      <div class="col-7">
-        <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img src="Images/DSC_0671.jpg" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-              <img src="Images/DSC_0568.jpg" class="d-block w-100" alt="...">
-            </div>
-          </div>
-          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
-            data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-          </button>
-          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
-            data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-          </button>
-        </div>
-      </div>
-
-
-      <div class="col-5 ">
-        <h2>Lorem Ipsum</h2>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et ante ac quam posuere laoreet vitae
-          pellentesquemp
-          felis. Vivamus non mauris nec massa consequat pulvinar. Vivamus euismod dapibus faucibus. Integer eget diam
-          laoreet, tristique erat nec, tincidunt sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-          Mauris ac lectus efficitur, mollis massa at, bibendum libero. Nam mauris odio, consectetur in maximus in,
-          sollicitudin id tellus. Aliquam erat volutpat. Mauris urna dolor, varius at eleifend id, rhoncus ac arcu.
-          Donec
-          vel ex tristique, commodo erat eget, euismod nunc.
-          Aliquam sed urna sed ante congue consectetur eu ultricies enim. Aenean tempus vulputate ipsum eu iaculis.</p>
-      </div>
-
-      <div class="space"></div>
-
-      <div>
-        <h2>Lorem Ipsum</h2>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et ante ac quam posuere laoreet vitae
-          pellentesque
-          felis. Vivamus non mauris nec massa consequat pulvinar. Vivamus euismod dapibus faucibus. Integer eget diam
-          laoreet, tristique erat nec, tincidunt sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-          Mauris ac lectus efficitur, mollis massa at, bibendum libero. Nam mauris odio, consectetur in maximus in,
-          sollicitudin id tellus. Aliquam erat volutpat. Mauris urna dolor, varius at eleifend id, rhoncus ac arcu.
-          Donec
-          vel ex tristique, commodo erat eget, euismod nunc.
-          Aliquam sed urna sed ante congue consectetur eu ultricies enim. Aenean tempus vulputate ipsum eu iaculis.</p>
-      </div>
-
-      <div class="row justify-content-center">
-        <img id="gif" src="Images/IMG_6176.gif" alt="conference gif">
-      </div>
-      <div class="space"></div>
-
-      <div class="col-5">
-        <h2>Lorem Ipsum</h2>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et ante ac quam posuere laoreet vitae
-          pellentesque
-          felis. Vivamus non mauris nec massa consequat pulvinar. Vivamus euismod dapibus faucibus. Integer eget diam
-          laoreet, tristique erat nec, tincidunt sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-          Mauris ac lectus efficitur, mollis massa at, bibendum libero. Nam mauris odio, consectetur in maximus in,
-          sollicitudin id tellus. Aliquam erat volutpat. Mauris urna dolor, varius at eleifend id, rhoncus ac arcu.
-          Donec
-          vel ex tristique, commodo erat eget, euismod nunc.
-          Aliquam sed urna sed ante congue consectetur eu ultricies enim. Aenean tempus vulputate ipsum eu iaculis.</p>
-      </div>
-      <div class="col-5"><img id="crow-img" src="Images/DSC_0519.jpg" alt="crow"></div>
 
       <div class="space"></div> 
 
