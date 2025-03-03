@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Staff Page</title>
+    <title>Member Benefits</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: white;
+            background-color: color white;
             margin: 0;
             padding: 0;
             color: black;
@@ -35,31 +35,6 @@
             font-size: 20px;
             margin-left: 10px;
         }
-        .container {
-            margin: 20px;
-        }
-        .staff-section {
-            background-color: #fff;
-            padding: 15px;
-            display: inline-block;
-            margin-bottom: 20px;
-        }
-        .staff-grid {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-        }
-        .staff-card {
-            background-color: #d3d3d3;
-            padding: 40px;
-            width: 150px;
-        }
-        .contact-form {
-            background-color: #d3d3d3;
-            padding: 10px;
-            display: inline-block;
-            margin-top: 20px;
-        }
     </style>
 </head>
 <body>
@@ -72,15 +47,3 @@
             <a href="#">Contact Us</a>
             <a href="#">Join Us</a>
         </div>
-    </div>
-    <div class="container">
-        <div class="staff-section">Staff</div>
-        <div class="staff-grid">
-            <div class="staff-card">Director <br><br> Contact Info</div>
-            <div class="staff-card">Sample <br><br> Contact Info</div>
-            <div class="staff-card">Sample <br><br> Contact Info</div>
-        </div>
-        <div class="contact-form">Form to contact</div>
-    </div>
-</body>
-</html>
